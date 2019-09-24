@@ -1,5 +1,7 @@
-<<<<<<< HEAD
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Super Basic React App
+counter with button, good reference for syntax
+
 
 ## Available Scripts
 
